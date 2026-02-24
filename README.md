@@ -6,8 +6,7 @@ Welcome to the technical assessment for the IEEE Web Resources chapter. This rep
 - **Deadline:** 26-02-2026
 - **Deliverables:**
     1. A link to your own GitHub repository containing the code for Tasks 1, 2, and 3.
-    2. A live URL for the Frontend task (hosted via Vercel, Netlify, or GitHub Pages).
-    3. A link to your successfully opened Pull Request for Task 4 in this repository.
+    2. A link to your successfully opened Pull Request for Task 4 in this repository.
 
 ---
 
@@ -17,7 +16,7 @@ Welcome to the technical assessment for the IEEE Web Resources chapter. This rep
 - **Requirements:**
     - Create a card containing a placeholder image, title, date, and a "Register Now" button.
     - **Functionality:** The layout must be perfectly responsive on mobile devices using Flexbox or CSS Grid.
-    - **Advanced (Optional):** Add a hover effect that reveals a short event description. If using a framework like React or Tailwind CSS, make the button trigger a simple personalized alert.
+    - **Enhancement:** Add a hover effect that reveals a short event description. Use React and Tailwind CSS, make the button trigger a simple personalized alert.
 
 ---
 
@@ -30,13 +29,14 @@ Welcome to the technical assessment for the IEEE Web Resources chapter. This rep
         - `GET /members`: Returns a JSON list of existing members (Name, USN, Domain).
         - `POST /members`: Adds a new member to the list with validation (USN must be exactly 10 characters).
         - `DELETE /members/:usn`: Removes a member based on their USN.
+    - ** ADD-ON:** Think of all possible attributes to manage a members' detail and their hierarchy in club
 
 ---
 
 ##  Task 3: Debugging Challenge
 **Goal:** Identify and fix errors in the following snippets. Provide the corrected code and a brief explanation of the bugs found in your repository's README.
 
-### Part A: JavaScript Logic
+### Part A: JavaScript
 ```javascript
 function Counter() {
   let count = 0;
