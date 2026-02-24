@@ -10,7 +10,7 @@ Welcome to the technical assessment for the IEEE Web Resources chapter. This rep
 
 ---
 
-##  Task 1: Frontend & UI Challenge (The "IEEE Event Card")
+##  Task 1: Frontend : "IEEE Event Card"
 **Goal:** Build a clean, responsive "Upcoming Event" card.
 
 - **Requirements:**
@@ -20,7 +20,7 @@ Welcome to the technical assessment for the IEEE Web Resources chapter. This rep
 
 ---
 
-##  Task 2: Backend Logic (The "Membership API")
+##  Task 2: Backend Logic : "Membership API"
 **Goal:** Develop a simple REST API to manage a list of club members.
 
 - **Requirements:**
