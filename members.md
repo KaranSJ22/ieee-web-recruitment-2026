@@ -3,4 +3,4 @@ Add your details below following the recruitment task instructions.
 
 | Name | Bio | Technical Goal |
 | :--- | :--- | :--- |
-| Example Name | Student at MSRIT | Learning Docker |
+| Example Name | Student at MSRIT | Some goal  |
